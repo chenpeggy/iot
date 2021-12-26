@@ -22,14 +22,19 @@
 ## 。實驗步驟
 - ### Step1. raspberry pi sd卡重置 （若已完成本步驟可省略）
    可參考：
+   
 - ### Step2. raspberry pi 安裝python（若已完成本步驟可省略）
    可參考：
+   
 -### Step3. raspberry pi 安裝python（若已完成本步驟可省略）
    可參考：
+   
 - ### Step1. raspberry pi sd卡重置 （若已完成本步驟可省略）
    可參考：
+   
 - ### Step2. raspberry pi 安裝python（若已完成本步驟可省略）
    可參考：
+   
 -### Step3. raspberry pi 安裝python（若已完成本步驟可省略）
    可參考：
 
