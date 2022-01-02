@@ -5,7 +5,7 @@
    - 解決肥胖問題
 
    ### 。構想
-   四駒車上的鏡頭會間隔幾秒照相，並且回傳照片給Rasberry Pi 3，透過影像辨識，查看相片是否為本人，若照片並非本人，四駒車會逃跑離開。
+  
 
 ## 前置作業
 - ### 材料
@@ -46,24 +46,10 @@
 
 
 7. 程式設計
-Requirements.txt # modules versions
+
 
 00.PerOperation
 
-data___________________# DataGenerator檔生出來的照片
-class0 (一堆皮丘照片,但只有正面照)
-class1 (一堆小熊跟維尼照片,但只有正面照)
-00.DataGenerator.py_____# ImageDataGenerator生成照片
-01.GetData.py___________# cv2將照片轉numpy array,以及resize ,再吐出data與label的pickle檔(X.pickle/y.pickle)
-02.CNN_model.py___________# 用X.pickle/y.pickle train CNN model ,再吐出json以及h5檔
-03.ReadModel_predict.py_____# load model以及test predict
-01.FourWheelCar_ImageRecognize
-
-CarClass.py_______# 執行車子指令(B,BR,R,F,BL,L,F,S)
-ImagePredict.py_____# load model&predict the image
-main.py_____# import CarClass和ImagePredict ,如果ImagePredict回傳class1, CarClass對車子進行指令
-model.h5
-model.json
 
 
 ## 。可以改進或其他發想
@@ -76,3 +62,9 @@ Raspberry Pi 樹莓派UPS 鋰電池擴充板USB 電源供應模組行動電源�
 可以若是非本人接近,使用蜂鳴器發出聲音
 
 ## 。參考資料
+https://www.youtube.com/watch?v=Tw0mG4YtsZk
+https://www.youtube.com/watch?v=VzYGDq0D1mw
+https://eason851021.medium.com/line-notify-%E5%88%A9%E7%94%A8python%E5%82%B3%E9%80%81%E5%AE%A2%E8%A3%BD%E5%8C%96%E8%A8%8A%E6%81%AF-%E4%BB%A5%E5%90%89%E5%A8%83%E5%A8%83%E9%95%B7%E8%BC%A9%E5%9C%96%E7%82%BA%E4%BE%8B-2a50c6a5197b
+https://www.youtube.com/watch?v=RPZZZ6FSZuk
+http://hophd.com/raspberry-pi-sensor-infrared/
+
