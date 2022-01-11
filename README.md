@@ -2,34 +2,43 @@
 ## 概念
    ### 。緣起
    - 家中有個櫃子常備有乾糧，家人酷愛半夜吃零嘴解饞，最近引發胃食道逆流。
-     為減緩他胃食道逆流問題、又可以不用強迫其他人陪他一起戒零食的前提下，
+     為減緩他胃食道逆流問題、其他人又不用一起戒零食的前提下，
      為了不影響其他人的生活作息、並讓他養成好習慣，有跟家人約好：深夜不可吃零食，抓到要貢獻罰款給其他人，拍到一次罰一次。
    ### 。構想
    - 一個好習慣的養成至少需要21天，為了在習慣養成期間嚴格執行，設計構想是：若在深夜時段打開零食櫃，被拍到照片並傳送到Line群組，馬上就可以跟半夜
   
 
-## 前置作業
-- ### 材料
+## 材料
    |NO|項目|數量|
    |:---:|:---:|:---:|
    |1|Rasberry Pi 4|1|
+   |2|ＳＤ card 32G|1|
    |2|行動電源|1|
    |3|紅外線運動感測器|１
    |4|鏡頭|1|
    |５|杜邦線（母對母)|３|
-   |6|餅乾盒｜1|
+   |6|餅乾盒、紙盒｜n|
+   
    P.Ｓ..餅乾盒可以任選，只要裝得下工具都可以！我只是趁機想吃義美泡芙≖‿≖
    
 -  ### 電路圖(Circuit Diagram)
    藍色接線與字代表所需接至Raspberry pi上GPIO對應腳位(例如下圖，N1接至GPIO 16) /<br>
    
    
-## 。實驗步驟
-- ### Step1. raspberry pi SD卡重置（若已完成本步驟可省略）
-   可參考：
+## 實驗步驟
+   ### Step1. download Raspberry Pi Imager & 格式化SD card （若已完成本步驟可略）
+- Raspberry Pi Imager下載網址請見官網：https://www.raspberrypi.com/software/
+![image](https://user-images.githubusercontent.com/96639949/148876834-23a6f604-3e93-4421-9e6c-3f706f9ee3cc.png)
+- Raspberry Pi Imager下載完成之後，格式化SD card。並將格式化後的SD card安置到樹莓派背面插槽（如下圖藍框位置）
+![image](https://user-images.githubusercontent.com/96639949/148879201-f365c318-05ed-494a-9ad2-93ae063a9c25.png)
    
-- ### Step2. raspberry pi 安裝python（若已完成本步驟可省略）
-   可參考：
+   ### Step2. 筆電安裝VNC viewer (＊若不需要遠端操作，本步驟可略)
+ -可使用Real VNC，若無帳號可一併註冊。下載官網：https://www.realvnc.com/en/connect/download/viewer/
+ -安裝好後，會有登入介面可登入（（缺一張圖）
+ 
+   ### Step3. 在Raspberry Pi 開啟Camera、VNC
+   ＊若Raspberry Pi 想直接接鍵盤或螢幕，可不開啟VNC
+   ![image](https://user-images.githubusercontent.com/96639949/148880692-ca61181e-d828-468f-a8f1-784f0814c9aa.png)
    
 -### Step3. raspberry pi 安裝python（若已完成本步驟可省略）
    可參考：
