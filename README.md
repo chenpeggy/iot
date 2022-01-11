@@ -36,7 +36,7 @@
   <br><img src="https://user-images.githubusercontent.com/96639949/148922956-6090460d-5160-43c5-acce-cd47f53491ae.png" width="600" height="400">
 
    ### Step4.電路圖 ＆接線
-   - *接線接時要注意訊VCC、GND和OUT的位置，OUT接在board 7的位置
+   - 接線接時要注意訊VCC、GND和OUT的位置，OUT接在board 7的位置
    <br> *圖片來源：https://projects.raspberrypi.org/en/projects/physical-computing/11
    <br><img src="https://user-images.githubusercontent.com/96639949/148918788-8eac875e-48ad-4f0e-a2c4-b6f6e30354aa.png" width="600" height="300">
    - 鏡頭安裝可參考：https://www.youtube.com/watch?v=VzYGDq0D1mw
