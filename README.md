@@ -103,7 +103,7 @@ finally:
    ### Step7.擺放放置鏡頭和位置
    - 紙盒外挖兩個洞，紙盒內用其他廢棄紙盒和餅乾架著感測器和鏡頭外挖兩個洞
     <br>P.Ｓ.紙盒可以任選，只要裝得下工具都可以！≖‿≖   
-    <br><img src="https://user-images.githubusercontent.com/96639949/148915202-51289b80-2afa-4fb9-b0ab-cb18412ea3b3.png" width="20%" height="20%"><img src="https://user-images.githubusercontent.com/96639949/148917323-5cfff7a9-c34c-4490-861c-7ed6b7ba0e7e.png" width="20%" height="20%">
+    <br><img src="https://user-images.githubusercontent.com/96639949/148915202-51289b80-2afa-4fb9-b0ab-cb18412ea3b3.png" width="30%" height="30%"><img src="https://user-images.githubusercontent.com/96639949/148917323-5cfff7a9-c34c-4490-861c-7ed6b7ba0e7e.png" width="30%" height="30%">
 
    ### Step8.實驗結果
    - 請見：https://www.youtube.com/watch?v=5htkQz6NAko
