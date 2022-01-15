@@ -2,7 +2,7 @@
 ## 概念
    ### 。緣起
    - 家中有個櫃子常備有乾糧，家人酷愛半夜吃零嘴解饞，最近引發胃食道逆流。
-     為減緩胃食道逆流問題、並養成好習慣，有跟家人約好：深夜不可吃零食，抓到要貢獻罰款給其他人。~(～￣▽￣)～     
+     為減緩胃食道逆流問題、並養成好習慣，有跟家人約好：深夜不可打開零食櫃吃零食，抓到要貢獻罰款給其他人。~(～￣▽￣)～     
    ### 。構想
    - 一個好習慣的養成至少需要21天，為了在習慣養成期間嚴格執行，設計構想是：若在深夜時段打開零食櫃，被拍到照片並傳送到Line群組，馬上就可以大家發現，執行後續收罰金作業。
   
@@ -33,7 +33,11 @@
    - 開啟Camera、VNC
    <br>*若Raspberry Pi 想直接接鍵盤或螢幕，可不開啟VNC
    <br><img src="https://user-images.githubusercontent.com/96639949/148916678-73c23929-7b9d-481e-b908-e93a5701525b.png" width="600" height="400">
-   - 登入VNC
+   
+   - Raspberry Pi 中登入VNC帳號
+   <br><img src="https://user-images.githubusercontent.com/96639949/149601933-e8854260-a717-4d12-98d3-9c12122fef05.png" width="600" height="400">
+   
+   - 在本機中登入VNC Viewer
   <br><img src="https://user-images.githubusercontent.com/96639949/148922956-6090460d-5160-43c5-acce-cd47f53491ae.png" width="600" height="400">
 
    ### Step4.電路圖 ＆接線
