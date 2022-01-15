@@ -37,7 +37,7 @@
    - Raspberry Pi 中登入VNC帳號
    <br><img src="https://user-images.githubusercontent.com/96639949/149601933-e8854260-a717-4d12-98d3-9c12122fef05.png" width="600" height="400">
    
-   - 在本機中登入VNC Viewer
+   - 在本機中登入VNC Viewer，預設帳號是pi
   <br><img src="https://user-images.githubusercontent.com/96639949/148922956-6090460d-5160-43c5-acce-cd47f53491ae.png" width="600" height="400">
 
    ### Step4.電路圖 ＆接線
